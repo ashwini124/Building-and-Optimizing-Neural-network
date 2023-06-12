@@ -51,5 +51,5 @@ Four different optimization methods are explored to enhance the base model:
 - Data Augmentation: Apply data augmentation techniques to increase the size and diversity of the training data. This can help the model generalize better and improve accuracy.
 
 
-# -------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 This GitHub repository provides optimization techniques for improving the accuracy of a neural network model. By tuning hyperparameters and applying various optimization methods, users can enhance the model's performance. The repository includes a table for comparing different hyperparameter setups and a graph to visualize the impact of optimization methods on test accuracy. By following the steps outlined in the repository, users can experiment with different setups and techniques to find the optimal configuration for their neural network model.
